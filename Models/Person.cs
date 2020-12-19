@@ -13,13 +13,13 @@ namespace Codeboxx_Stack_Demo.Models
         public int Age { get; set; }
 
 
-
-
         // this will require the user to have an email other wise the 'ModelState.IsValid' will return false. Wich in term will display an error to the user
         [Required]
         public string Email { get; set; }
 
 
+        //You can input a nullable value if you put a ? infront of the type. Note: you don't need this for a string
+        public int? NullableValue { get; set; }
 
 
         // We can also have more than 1 requirement per field. In here we require the user to enter its name. His name cannot be less than 3 characters long
