@@ -43,3 +43,6 @@ D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\bin\Debug\net5.0
 D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\obj\Debug\net5.0\Razor\Views\WierdName\Index.cshtml.g.cs
+D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\obj\Debug\net5.0\Razor\Views\WierdName\CreateNewPerson.cshtml.g.cs
+D:\Documents\Coding\Codeboxx\Codeboxx_Stack\Codeboxx_Stack_Demo\obj\Debug\net5.0\Razor\Views\WierdName\TooManyParamsCommingFromAForm.cshtml.g.cs
